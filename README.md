@@ -1,4 +1,5 @@
-#Database Design & SQL Programming
+#Database Design & SQL Programming 
+![Alt Text](/logo.jpg)
 
 * **Course Website:** [DBSQL Website](https://sites.google.com/site/sallenorhs/db-design-sql)
 * **Instructor:** Stephanie Allen, [sallen@eduhsd.k12.ca.us](mailto:sallen@eduhsd.k12.ca.us)
