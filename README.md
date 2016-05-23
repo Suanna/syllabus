@@ -76,11 +76,11 @@ Percentages | Weights
 60%  -  69% :  	D | Projects - 50%
 Below 60% :    	F |  
 
-**Digital Portfolio:**  Students will create a digital portfolio on [Portfolium](https://portfolium.com/).  Evidence of work will be posted througout the semester.
+**Digital Portfolio:**  Students will create a digital portfolio on [Portfolium](https://portfolium.com/).  Evidence of work will be posted throughout the semester.
 
 **Soft Skills:** Skills including collaboration, work readiness, behavior/attitude, work ethic and motivation/initiative. These skills are required for success in school and career and are developed through teamwork, professional behavior expectations, communication and collaborative assignments. 
 
-**iLearning Quizzes/Tests:** Oracle iLearning portal includeds quizzes after each lesson and a midterm and final exam test.  Students have unlimited retake attempts for quizzes and one attempt at the midterm and final exam.
+**iLearning Quizzes/Tests:** Oracle iLearning portal includes quizzes after each lesson and a midterm and final exam test.  Students have unlimited retake attempts for quizzes and one attempt at the midterm and final exam.
 
 **Projects:** Students will pick a semester long project, which will include implementation of a database.
 
