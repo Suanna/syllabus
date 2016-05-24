@@ -64,6 +64,7 @@ Sometimes students change their code by rewriting comments, changing variable na
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
     * [Recommended resources](http://hackerhours.org/resources.html#github)
+    * [Git in 15 Minutes](https://try.github.io/levels/1/challenges/1)
 * GitHub Pages
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
