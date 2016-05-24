@@ -59,8 +59,8 @@ Sometimes students change their code by rewriting comments, changing variable na
 
 ### GitHub
 
-* GitHub Student Developer Pack
-    * [Student Developer Pack](https://education.github.com/pack) Free cloud and database services and products. 
+* GitHub Student Developer Pack (Sign up for free cloud and database services)
+    * [Student Developer Pack](https://education.github.com/pack)  
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
     * [Recommended resources](http://hackerhours.org/resources.html#github)
