@@ -12,6 +12,8 @@
 
 This two-part course teaches data modeling and Structured Query Language (SQL). In the database design curriculum, students learn to analyze complex business scenarios and create a data model, a conceptual representation of an organization’s information. In the database programming with SQL curriculum, students implement their database design by creating a physical database using SQL, the industry-standard database programming language.  Upon completion of this course, students have the opportunity to take an exam to earn the industry certification Oracle Database SQL Certified Expert. 
 
+This course articulates with Folsom Lake College CISP: 351 Introduction to Relational Database Design and SQL. College credit will be granted only if the student completes all course work and examination(s) or equivalent with a grade of “A” or “B”, completes the Folsom Lake College parent permission form, and obtains a student identification number by submitting an application to Folsom Lake College.
+
 ## Course Objectives
 
 1.	Students will gain knowledge of database management systems, both in terms of use and implementation/design
