@@ -55,6 +55,10 @@ Sometimes students change their code by rewriting comments, changing variable na
 
 ## Resources
 
+### Piazza
+
+* [Piazza](https://piazza.com/eduhsd.k12.ca.us/fall2016/dbsql/home) Online forum for posting and answering questions.
+
 ### Oracle iLearning
 
 * [Oracle iLearning](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad) In Oracle iLearning you will access online lessons, quizzes and tests, course materials, and resources. 
